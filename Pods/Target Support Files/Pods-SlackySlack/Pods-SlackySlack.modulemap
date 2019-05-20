@@ -1,0 +1,6 @@
+framework module Pods_SlackySlack {
+  umbrella header "Pods-SlackySlack-umbrella.h"
+
+  export *
+  module * { export * }
+}
